@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
-""" A type-annotated function """
+""" Adding type-annotated code"""
 
 
 def add(a: float, b: float) -> float:
     """
-        function add that takes a float a and a float b as arguments and
-        returns their sum as a float
+        This is to add floats as arguments and
+        return their sum also as float
     """
     return a + b
